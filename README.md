@@ -1,4 +1,4 @@
-# Assignment
+# Calculator
 A basic calculator that perfroms the following operations using two numbers.
 
 1. Addition
