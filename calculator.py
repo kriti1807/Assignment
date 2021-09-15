@@ -1,5 +1,5 @@
 print("\t\t\t\t\t\t\tCALCULATOR")
-print("1. Addition\n2. Substraction\n3. Multiplication\n4. Division")
+print("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division")
 p=int(input("Choose an option:"))
 x=int(input("Enter Number 1="))
 y=int(input("Enter Number 2="))
@@ -11,4 +11,4 @@ elif p==2:
 elif p==3:
     print("The product of the above the two numbers is", x*y)
 else:
-    print("The summation of the above the two numbers is", x/y)
+    print("The division of the above the two numbers is", x/y)
